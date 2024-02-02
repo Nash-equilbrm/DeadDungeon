@@ -1,4 +1,4 @@
-# Game Development Course Project - The Final Project
+# Game Development Course Project - Dead Dungeon
 
 ![Poster](imgs/Poster.png)
 
