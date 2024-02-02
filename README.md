@@ -10,4 +10,5 @@ The player assumes the role of an archeology student who is conducting research 
 - Multi-stage game.
 - Game Story.
 
-# Game URL: https://nash-equ17ibrium.itch.io/dead-dungeon
+# Game URL: 
+https://nash-equ17ibrium.itch.io/dead-dungeon
