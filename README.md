@@ -8,4 +8,6 @@ The player assumes the role of an archeology student who is conducting research 
 - Save and load checkpoint.
 - Items and shopping systems.
 - Multi-stage game.
-- Game Story. 
+- Game Story.
+
+# Game URL: https://nash-equ17ibrium.itch.io/dead-dungeon
