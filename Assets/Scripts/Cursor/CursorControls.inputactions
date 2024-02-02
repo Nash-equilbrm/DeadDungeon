@@ -1,0 +1,33 @@
+{
+    "name": "CursorControls",
+    "maps": [
+        {
+            "name": "Mouse",
+            "id": "df85f604-fa7e-452a-846c-9ac6d7a6191f",
+            "actions": [
+                {
+                    "name": "Click",
+                    "type": "Button",
+                    "id": "e3236890-c640-419f-9b34-27b8ad5606c4",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "84e614dc-e6cc-49a2-be12-214f7a52824f",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "Press(behavior=1)",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Click",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

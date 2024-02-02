@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a552374ebf02f2540a26ef21bec35572, type: 3}
+  m_Name: Frog
+  m_EditorClassIdentifier: 
+  monsterID: 3
+  monsterName: Frog
+  health: 10
+  movementType: 1
+  speed: 6
+  detectTargetRange: 10
+  attackType: 2
+  attackRange: 2
+  damage: 5
+  attackRate: 0
+  monsterAnimator: {fileID: 9100000, guid: d890cc46fe2e7994a83649eb9424381b, type: 2}
+  attackSound: {fileID: 0}
+  deadSound: {fileID: 8300000, guid: 240177a9539c9e34092e061117fe11dc, type: 3}

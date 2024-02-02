@@ -1,0 +1,4715 @@
+fileFormatVersion: 2
+guid: 133ccbb237623ab44a8d78216bd47d17
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 450014405137454355
+    second: MonsterBulletExplosion_0
+  - first:
+      213: 8074881037358176003
+    second: MonsterBulletExplosion_1
+  - first:
+      213: 6291656337078864789
+    second: MonsterBulletExplosion_2
+  - first:
+      213: 7695973080134660799
+    second: MonsterBulletExplosion_3
+  - first:
+      213: 3511221257530148472
+    second: MonsterBulletExplosion_4
+  - first:
+      213: 3920979445146877667
+    second: MonsterBulletExplosion_5
+  - first:
+      213: 8637786591180854284
+    second: MonsterBulletExplosion_6
+  - first:
+      213: 8936279201778640245
+    second: MonsterBulletExplosion_7
+  - first:
+      213: 57203337253105458
+    second: MonsterBulletExplosion_8
+  - first:
+      213: -3319667294704209663
+    second: MonsterBulletExplosion_9
+  - first:
+      213: -8123242946906765016
+    second: MonsterBulletExplosion_10
+  - first:
+      213: -812445344385770831
+    second: MonsterBulletExplosion_11
+  - first:
+      213: -6481249410363518748
+    second: MonsterBulletExplosion_12
+  - first:
+      213: 5270308506340882064
+    second: MonsterBulletExplosion_13
+  - first:
+      213: -1469384977300994945
+    second: MonsterBulletExplosion_14
+  - first:
+      213: -7439121665231608621
+    second: MonsterBulletExplosion_15
+  - first:
+      213: 9085374052927988348
+    second: MonsterBulletExplosion_16
+  - first:
+      213: 5267037666992701142
+    second: MonsterBulletExplosion_17
+  - first:
+      213: 8049626547136058047
+    second: MonsterBulletExplosion_18
+  - first:
+      213: -6264678580665595413
+    second: MonsterBulletExplosion_19
+  - first:
+      213: 8436163650749345657
+    second: MonsterBulletExplosion_20
+  - first:
+      213: 3317494028296359950
+    second: MonsterBulletExplosion_21
+  - first:
+      213: 6434931494618812802
+    second: MonsterBulletExplosion_22
+  - first:
+      213: 1319808668661573760
+    second: MonsterBulletExplosion_23
+  - first:
+      213: -8417749183093603110
+    second: MonsterBulletExplosion_24
+  - first:
+      213: -9187104131404936741
+    second: MonsterBulletExplosion_25
+  - first:
+      213: 7674098158642522569
+    second: MonsterBulletExplosion_26
+  - first:
+      213: 5277775607167453301
+    second: MonsterBulletExplosion_27
+  - first:
+      213: -9080860371000604507
+    second: MonsterBulletExplosion_28
+  - first:
+      213: -1293735858099422893
+    second: MonsterBulletExplosion_29
+  - first:
+      213: 3139949506485431625
+    second: MonsterBulletExplosion_30
+  - first:
+      213: 2560814461198452089
+    second: MonsterBulletExplosion_31
+  - first:
+      213: 9020379329867006893
+    second: MonsterBulletExplosion_32
+  - first:
+      213: -1128737133056576666
+    second: MonsterBulletExplosion_33
+  - first:
+      213: 1852990248010335094
+    second: MonsterBulletExplosion_34
+  - first:
+      213: -3747842046288847116
+    second: MonsterBulletExplosion_35
+  - first:
+      213: -7504986915844872530
+    second: MonsterBulletExplosion_36
+  - first:
+      213: 6228726227746725009
+    second: MonsterBulletExplosion_37
+  - first:
+      213: 2641159586850850458
+    second: MonsterBulletExplosion_38
+  - first:
+      213: -8241716220681213750
+    second: MonsterBulletExplosion_39
+  - first:
+      213: 7780525657832077503
+    second: MonsterBulletExplosion_40
+  - first:
+      213: -2938674160651332620
+    second: MonsterBulletExplosion_41
+  - first:
+      213: 8653860281495017517
+    second: MonsterBulletExplosion_42
+  - first:
+      213: 5104966883445596485
+    second: MonsterBulletExplosion_43
+  - first:
+      213: 7403539165409709653
+    second: MonsterBulletExplosion_44
+  - first:
+      213: 3115247570411171981
+    second: MonsterBulletExplosion_45
+  - first:
+      213: -5594236820948380285
+    second: MonsterBulletExplosion_46
+  - first:
+      213: -4245272208226104602
+    second: MonsterBulletExplosion_47
+  - first:
+      213: 7789327662701103371
+    second: MonsterBulletExplosion_48
+  - first:
+      213: 2862634501348645246
+    second: MonsterBulletExplosion_49
+  - first:
+      213: 3662519602290310620
+    second: MonsterBulletExplosion_50
+  - first:
+      213: -8144537985305990889
+    second: MonsterBulletExplosion_51
+  - first:
+      213: 5168731033908980941
+    second: MonsterBulletExplosion_52
+  - first:
+      213: -2598216882848585955
+    second: MonsterBulletExplosion_53
+  - first:
+      213: 3172062884549472148
+    second: MonsterBulletExplosion_54
+  - first:
+      213: -7324707547507678073
+    second: MonsterBulletExplosion_55
+  - first:
+      213: -5314319685704375720
+    second: MonsterBulletExplosion_56
+  - first:
+      213: -7389756770060589749
+    second: MonsterBulletExplosion_57
+  - first:
+      213: 2976663168713486201
+    second: MonsterBulletExplosion_58
+  - first:
+      213: 2430425239018019398
+    second: MonsterBulletExplosion_59
+  - first:
+      213: -7797116928232908278
+    second: MonsterBulletExplosion_60
+  - first:
+      213: -6616821314575580594
+    second: MonsterBulletExplosion_61
+  - first:
+      213: 6355009996189862024
+    second: MonsterBulletExplosion_62
+  - first:
+      213: 6343861588639406025
+    second: MonsterBulletExplosion_63
+  - first:
+      213: 6832016738239573779
+    second: MonsterBulletExplosion_64
+  - first:
+      213: -1364729503801478424
+    second: MonsterBulletExplosion_65
+  - first:
+      213: -950956427156513534
+    second: MonsterBulletExplosion_66
+  - first:
+      213: 3592375143480226784
+    second: MonsterBulletExplosion_67
+  - first:
+      213: -4037076008089776792
+    second: MonsterBulletExplosion_68
+  - first:
+      213: -5825845201719739455
+    second: MonsterBulletExplosion_69
+  - first:
+      213: 6156042591409870001
+    second: MonsterBulletExplosion_70
+  - first:
+      213: -4923665007657588668
+    second: MonsterBulletExplosion_71
+  - first:
+      213: -5966949944779803630
+    second: MonsterBulletExplosion_72
+  - first:
+      213: 6626046620651996044
+    second: MonsterBulletExplosion_73
+  - first:
+      213: -3821320340350872638
+    second: MonsterBulletExplosion_74
+  - first:
+      213: -5540682181912008035
+    second: MonsterBulletExplosion_75
+  - first:
+      213: 4375989658001244534
+    second: MonsterBulletExplosion_76
+  - first:
+      213: 8070581362872153909
+    second: MonsterBulletExplosion_77
+  - first:
+      213: 123396368324441712
+    second: MonsterBulletExplosion_78
+  - first:
+      213: 4403241647466383123
+    second: MonsterBulletExplosion_79
+  - first:
+      213: 6684666898209977586
+    second: MonsterBulletExplosion_80
+  - first:
+      213: 6956538104361087122
+    second: MonsterBulletExplosion_81
+  - first:
+      213: -7442304588790754
+    second: MonsterBulletExplosion_82
+  - first:
+      213: -5545647803641217378
+    second: MonsterBulletExplosion_83
+  - first:
+      213: -7720866803512842602
+    second: MonsterBulletExplosion_84
+  - first:
+      213: 8796244290181659515
+    second: MonsterBulletExplosion_85
+  - first:
+      213: -7496010538433224637
+    second: MonsterBulletExplosion_86
+  - first:
+      213: 241532531987285764
+    second: MonsterBulletExplosion_87
+  - first:
+      213: 7461946042698828565
+    second: MonsterBulletExplosion_88
+  - first:
+      213: 4533441366489006795
+    second: MonsterBulletExplosion_89
+  - first:
+      213: -8673415933285202631
+    second: MonsterBulletExplosion_90
+  - first:
+      213: -8055095627270930147
+    second: MonsterBulletExplosion_91
+  - first:
+      213: 4711529823126628142
+    second: MonsterBulletExplosion_92
+  - first:
+      213: -2334053955690485896
+    second: MonsterBulletExplosion_93
+  - first:
+      213: -8299846556789687988
+    second: MonsterBulletExplosion_94
+  - first:
+      213: -1404571290040107826
+    second: MonsterBulletExplosion_95
+  - first:
+      213: 7528361979955075010
+    second: MonsterBulletExplosion_96
+  - first:
+      213: -5319048758976814817
+    second: MonsterBulletExplosion_97
+  - first:
+      213: 3260107103842674117
+    second: MonsterBulletExplosion_98
+  - first:
+      213: 5936777948255195794
+    second: MonsterBulletExplosion_99
+  - first:
+      213: 2653128807127458086
+    second: MonsterBulletExplosion_100
+  - first:
+      213: -3581338965717869361
+    second: MonsterBulletExplosion_101
+  - first:
+      213: -8335039905748693069
+    second: MonsterBulletExplosion_102
+  - first:
+      213: 2724528373164743419
+    second: MonsterBulletExplosion_103
+  - first:
+      213: -6451589537738584246
+    second: MonsterBulletExplosion_104
+  - first:
+      213: 3453661235588702019
+    second: MonsterBulletExplosion_105
+  - first:
+      213: -8011281571651674273
+    second: MonsterBulletExplosion_106
+  - first:
+      213: -1012644709711114028
+    second: MonsterBulletExplosion_107
+  - first:
+      213: -3382174808569624718
+    second: MonsterBulletExplosion_108
+  - first:
+      213: 7882640310333303557
+    second: MonsterBulletExplosion_109
+  - first:
+      213: -3715912427160094361
+    second: MonsterBulletExplosion_110
+  - first:
+      213: -5939417650869713223
+    second: MonsterBulletExplosion_111
+  - first:
+      213: -2020912113795017630
+    second: MonsterBulletExplosion_112
+  - first:
+      213: 867705678302519199
+    second: MonsterBulletExplosion_113
+  - first:
+      213: 8029091588144521885
+    second: MonsterBulletExplosion_114
+  - first:
+      213: -6756967526733034977
+    second: MonsterBulletExplosion_115
+  - first:
+      213: 1086537373227588608
+    second: MonsterBulletExplosion_116
+  - first:
+      213: -172307475749746329
+    second: MonsterBulletExplosion_117
+  - first:
+      213: -5833760829955022604
+    second: MonsterBulletExplosion_118
+  - first:
+      213: 4203120776196678778
+    second: MonsterBulletExplosion_119
+  - first:
+      213: 529682093582876516
+    second: MonsterBulletExplosion_120
+  - first:
+      213: -2185967199743727547
+    second: MonsterBulletExplosion_121
+  - first:
+      213: -7793716010988661267
+    second: MonsterBulletExplosion_122
+  - first:
+      213: -1783823621492843925
+    second: MonsterBulletExplosion_123
+  - first:
+      213: 743369778952318793
+    second: MonsterBulletExplosion_124
+  - first:
+      213: 3495549336950350216
+    second: MonsterBulletExplosion_125
+  - first:
+      213: -4827710078706975818
+    second: MonsterBulletExplosion_126
+  - first:
+      213: 7327396302835926976
+    second: MonsterBulletExplosion_127
+  - first:
+      213: 2758775770588129404
+    second: MonsterBulletExplosion_128
+  - first:
+      213: 6775634801290902415
+    second: MonsterBulletExplosion_129
+  - first:
+      213: 3412246473267490923
+    second: MonsterBulletExplosion_130
+  - first:
+      213: -6541241543380020148
+    second: MonsterBulletExplosion_131
+  - first:
+      213: -2728947405393900665
+    second: MonsterBulletExplosion_132
+  - first:
+      213: 5346220019139070860
+    second: MonsterBulletExplosion_133
+  - first:
+      213: -1990966310116561970
+    second: MonsterBulletExplosion_134
+  - first:
+      213: 4105944003556844011
+    second: MonsterBulletExplosion_135
+  - first:
+      213: -5666545662676971231
+    second: MonsterBulletExplosion_136
+  - first:
+      213: 554925912171006076
+    second: MonsterBulletExplosion_137
+  - first:
+      213: 145612129499305155
+    second: MonsterBulletExplosion_138
+  - first:
+      213: 6762088611347890448
+    second: MonsterBulletExplosion_139
+  - first:
+      213: 7280128555606622337
+    second: MonsterBulletExplosion_140
+  - first:
+      213: -1640352431931461459
+    second: MonsterBulletExplosion_141
+  - first:
+      213: 2215668473355889557
+    second: MonsterBulletExplosion_142
+  - first:
+      213: 6735363495514554798
+    second: MonsterBulletExplosion_143
+  - first:
+      213: 1108706079966544019
+    second: MonsterBulletExplosion_144
+  - first:
+      213: -786901453763048661
+    second: MonsterBulletExplosion_145
+  - first:
+      213: -3723202351759156196
+    second: MonsterBulletExplosion_146
+  - first:
+      213: 3278114383539949132
+    second: MonsterBulletExplosion_147
+  - first:
+      213: -3967741759568982512
+    second: MonsterBulletExplosion_148
+  - first:
+      213: -9092209425010041376
+    second: MonsterBulletExplosion_149
+  - first:
+      213: -6840150601956873779
+    second: MonsterBulletExplosion_150
+  - first:
+      213: -5979747689830987798
+    second: MonsterBulletExplosion_151
+  - first:
+      213: -3242555895056946249
+    second: MonsterBulletExplosion_152
+  - first:
+      213: 585282414266547276
+    second: MonsterBulletExplosion_153
+  - first:
+      213: -6643162184132382088
+    second: MonsterBulletExplosion_154
+  - first:
+      213: -5382175434601684621
+    second: MonsterBulletExplosion_155
+  - first:
+      213: 2274172773908803712
+    second: MonsterBulletExplosion_156
+  - first:
+      213: 2057181355200563141
+    second: MonsterBulletExplosion_157
+  - first:
+      213: -7291813941140179914
+    second: MonsterBulletExplosion_158
+  - first:
+      213: 7459086553825750660
+    second: MonsterBulletExplosion_159
+  - first:
+      213: -1797512827240748985
+    second: MonsterBulletExplosion_160
+  - first:
+      213: -6186278233465236751
+    second: MonsterBulletExplosion_161
+  - first:
+      213: 2586168582564965135
+    second: MonsterBulletExplosion_162
+  - first:
+      213: 7854013566693353989
+    second: MonsterBulletExplosion_163
+  - first:
+      213: 794092799728032208
+    second: MonsterBulletExplosion_164
+  - first:
+      213: -5897400071339029502
+    second: MonsterBulletExplosion_165
+  - first:
+      213: -4842632513401928020
+    second: MonsterBulletExplosion_166
+  - first:
+      213: -6586560759839698043
+    second: MonsterBulletExplosion_167
+  - first:
+      213: -5696077813501746096
+    second: MonsterBulletExplosion_168
+  - first:
+      213: -1035913884946641960
+    second: MonsterBulletExplosion_169
+  - first:
+      213: -3535900979542307823
+    second: MonsterBulletExplosion_170
+  - first:
+      213: -8448839731226381380
+    second: MonsterBulletExplosion_171
+  - first:
+      213: 2631166037577983716
+    second: MonsterBulletExplosion_172
+  - first:
+      213: 7856020866497444561
+    second: MonsterBulletExplosion_173
+  - first:
+      213: -763726114066875142
+    second: MonsterBulletExplosion_174
+  - first:
+      213: 6295395531888665850
+    second: MonsterBulletExplosion_175
+  - first:
+      213: 7374736043859301276
+    second: MonsterBulletExplosion_176
+  - first:
+      213: -31338083756923330
+    second: MonsterBulletExplosion_177
+  - first:
+      213: 1570344430268561328
+    second: MonsterBulletExplosion_178
+  - first:
+      213: 4727713678663616475
+    second: MonsterBulletExplosion_179
+  - first:
+      213: -7333455459778691543
+    second: MonsterBulletExplosion_180
+  - first:
+      213: 8666947407722237261
+    second: MonsterBulletExplosion_181
+  - first:
+      213: -3893955153631387451
+    second: MonsterBulletExplosion_182
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 338
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315d60a97b5ce3600800000000000000
+      internalID: 450014405137454355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 338
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307954b558dbf0070800000000000000
+      internalID: 8074881037358176003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 338
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bcb6c9a14705750800000000000000
+      internalID: 6291656337078864789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 338
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2356acdb69dca60800000000000000
+      internalID: 7695973080134660799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 338
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87682e6612d5ab030800000000000000
+      internalID: 3511221257530148472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 338
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee7697f70e1a6630800000000000000
+      internalID: 3920979445146877667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 338
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0497f4c3259fd770800000000000000
+      internalID: 8637786591180854284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_7
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 338
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5752abb669a040c70800000000000000
+      internalID: 8936279201778640245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_8
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 351
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f20f4d12a3bc000800000000000000
+      internalID: 57203337253105458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_9
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 338
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1017cae0f2c2ee1d0800000000000000
+      internalID: -3319667294704209663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_10
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 339
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829cc6d1491744f80800000000000000
+      internalID: -8123242946906765016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_11
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 339
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba5778834d99b4f0800000000000000
+      internalID: -812445344385770831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_12
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 339
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0929a100afd06a0800000000000000
+      internalID: -6481249410363518748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_13
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 339
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096fa29c9a5e32940800000000000000
+      internalID: 5270308506340882064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_14
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 339
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74cda5f522bb9be0800000000000000
+      internalID: -1469384977300994945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_15
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 339
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d425f6724ee2c890800000000000000
+      internalID: -7439121665231608621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_16
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 348
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72e254909bb51e70800000000000000
+      internalID: 9085374052927988348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_17
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 347
+        width: 67
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6deb3b72ad6481940800000000000000
+      internalID: 5267037666992701142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_18
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 338
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2599422b406bf60800000000000000
+      internalID: 8049626547136058047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_19
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 328
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9cd67c5046f09a0800000000000000
+      internalID: -6264678580665595413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_20
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 329
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f2af5c426431570800000000000000
+      internalID: 8436163650749345657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_21
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 328
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00951ded3b1a0e20800000000000000
+      internalID: 3317494028296359950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_22
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 328
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2815ab2c9187d4950800000000000000
+      internalID: 6434931494618812802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_23
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 305
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088ed03ddf6e05210800000000000000
+      internalID: 1319808668661573760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_24
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 305
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad40f5597b52e2b80800000000000000
+      internalID: -8417749183093603110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_25
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 305
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9c515c779d08080800000000000000
+      internalID: -9187104131404936741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_26
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 305
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9ed5dbd9fdf7a60800000000000000
+      internalID: 7674098158642522569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_27
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 305
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578007da3fc6e3940800000000000000
+      internalID: 5277775607167453301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_28
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 305
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a84693ea9d4af180800000000000000
+      internalID: -9080860371000604507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_29
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 291
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3597cc0771abb0ee0800000000000000
+      internalID: -1293735858099422893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_30
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 305
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d2ab2a077539b20800000000000000
+      internalID: 3139949506485431625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_31
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 322
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975ca674f27d98320800000000000000
+      internalID: 2560814461198452089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_32
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 307
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3cfff5533de2d70800000000000000
+      internalID: 9020379329867006893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_33
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 307
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663be5bce8be550f0800000000000000
+      internalID: -1128737133056576666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_34
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 307
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6734be020d427b910800000000000000
+      internalID: 1852990248010335094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_35
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 307
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe1eac048dfcfbc0800000000000000
+      internalID: -3747842046288847116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_36
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 307
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6ac15c92ee8d790800000000000000
+      internalID: -7504986915844872530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_37
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 307
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c9000c081e07650800000000000000
+      internalID: 6228726227746725009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_38
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 307
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96cc5996a847a420800000000000000
+      internalID: 2641159586850850458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_39
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 310
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8a8b683ca8f9d80800000000000000
+      internalID: -8241716220681213750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_40
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 310
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8b4e0ecdaf9fb60800000000000000
+      internalID: 7780525657832077503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_41
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 310
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f312cfab6bb737d0800000000000000
+      internalID: -2938674160651332620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_42
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 310
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d285f5e6310b81870800000000000000
+      internalID: 8653860281495017517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_43
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 309
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54168ed455c78d640800000000000000
+      internalID: 5104966883445596485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_44
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 305
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e00f235a7aeb660800000000000000
+      internalID: 7403539165409709653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_45
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 307
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80b1c5f8259b3b20800000000000000
+      internalID: 3115247570411171981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_46
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 279
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38516f930474d52b0800000000000000
+      internalID: -5594236820948380285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_47
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 279
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea48d54b63c515c0800000000000000
+      internalID: -4245272208226104602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_48
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 279
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b094c665d30491c60800000000000000
+      internalID: 7789327662701103371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_49
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 279
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79d9ae79ee1ab720800000000000000
+      internalID: 2862634501348645246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_50
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 279
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd3b656c22e3d230800000000000000
+      internalID: 3662519602290310620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_51
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 279
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719292e9ad9c8fe80800000000000000
+      internalID: -8144537985305990889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_52
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 261
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dccaeaf7d750bb740800000000000000
+      internalID: 5168731033908980941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_53
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 280
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d172360d28741fbd0800000000000000
+      internalID: -2598216882848585955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_54
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 280
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fa5ce136e650c20800000000000000
+      internalID: 3172062884549472148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_55
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 280
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784ae232b49695a90800000000000000
+      internalID: -7324707547507678073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_56
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 280
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852a9bef66ebf36b0800000000000000
+      internalID: -5314319685704375720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_57
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 280
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b452008ce5f427990800000000000000
+      internalID: -7389756770060589749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_58
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 280
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fe723816b3f4920800000000000000
+      internalID: 2976663168713486201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_59
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 280
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a10d0c0ea9ab120800000000000000
+      internalID: 2430425239018019398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_60
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 293
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a1e74f6731bc390800000000000000
+      internalID: -7797116928232908278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_61
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 293
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e424d7262145c24a0800000000000000
+      internalID: -6616821314575580594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_62
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 293
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88804f6dbe7813850800000000000000
+      internalID: 6355009996189862024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_63
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 293
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7d81fe08ce90850800000000000000
+      internalID: 6343861588639406025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_64
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 293
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fea4e960330de50800000000000000
+      internalID: 6832016738239573779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_65
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 292
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2fa673fb18f0de0800000000000000
+      internalID: -1364729503801478424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_66
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 279
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d167afa268dc2f0800000000000000
+      internalID: -950956427156513534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_67
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 280
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3f417e82eaad130800000000000000
+      internalID: 3592375143480226784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_68
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 261
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d8e8e82cc69f7c0800000000000000
+      internalID: -4037076008089776792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_69
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 261
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbb41bd7a0762fa0800000000000000
+      internalID: -5825845201719739455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_70
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 261
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4192bee18ae6550800000000000000
+      internalID: 6156042591409870001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_71
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 261
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4486c8123c0ababb0800000000000000
+      internalID: -4923665007657588668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_72
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 261
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214fcd4b3a2213da0800000000000000
+      internalID: -5966949944779803630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_73
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 261
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83c3219b4274fb50800000000000000
+      internalID: 6626046620651996044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_74
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 261
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3596c8561f7fac0800000000000000
+      internalID: -3821320340350872638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_75
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 261
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a6ccd49ea8b13b0800000000000000
+      internalID: -5540682181912008035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_76
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 261
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67182f1b863aabc30800000000000000
+      internalID: 4375989658001244534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_77
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 218
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537f1e06df6700070800000000000000
+      internalID: 8070581362872153909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_78
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 218
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0763d8cd75466b100800000000000000
+      internalID: 123396368324441712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_79
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 218
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3178071f2f47b1d30800000000000000
+      internalID: 4403241647466383123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_80
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 218
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f43e958025b4cc50800000000000000
+      internalID: 6684666898209977586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 218
+        width: 56
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29079e07c869a8060800000000000000
+      internalID: 6956538104361087122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_82
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 218
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14ccae634f85eff0800000000000000
+      internalID: -7442304588790754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_83
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 219
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e3a8664b6e903b0800000000000000
+      internalID: -5545647803641217378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_84
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 219
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696e2829c88f9d490800000000000000
+      internalID: -7720866803512842602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_85
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 219
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bf5d1d399821a70800000000000000
+      internalID: 8796244290181659515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_86
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 219
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3406a108122d8f790800000000000000
+      internalID: -7496010538433224637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_87
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 219
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4078dc2ee881a5300800000000000000
+      internalID: 241532531987285764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_88
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 219
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b023804682e8760800000000000000
+      internalID: 7461946042698828565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_89
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 218
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc283a357e40aee30800000000000000
+      internalID: 4533441366489006795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_90
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 228
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93582539926d1a780800000000000000
+      internalID: -8673415933285202631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_91
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 228
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11c6b8643d863090800000000000000
+      internalID: -8055095627270930147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_92
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 173
+        width: 51
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e272f105967b26140800000000000000
+      internalID: 4711529823126628142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_93
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 185
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877297c2b46cb9fd0800000000000000
+      internalID: -2334053955690485896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_94
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 185
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c493d44f78501dc80800000000000000
+      internalID: -8299846556789687988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_95
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 185
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc727b7ad5f18ce0800000000000000
+      internalID: -1404571290040107826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_96
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 185
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c757c3755d1a7860800000000000000
+      internalID: 7528361979955075010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_97
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 185
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f116432d551fe26b0800000000000000
+      internalID: -5319048758976814817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_98
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 185
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5254e532a3e3d20800000000000000
+      internalID: 3260107103842674117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_99
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 188
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2929f1ce61ca36250800000000000000
+      internalID: 5936777948255195794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_100
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 188
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621203cd79ec1d420800000000000000
+      internalID: 2653128807127458086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_101
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 188
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc1f187f278c4ec0800000000000000
+      internalID: -3581338965717869361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_102
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 188
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfc42ddd5df35c80800000000000000
+      internalID: -8335039905748693069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_103
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 188
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa15f6ce187fc520800000000000000
+      internalID: 2724528373164743419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_104
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 188
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f07765f795776a0800000000000000
+      internalID: -6451589537738584246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_105
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 188
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f1dc1789eddef20800000000000000
+      internalID: 3453661235588702019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_106
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 209
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f911e2bd532d090800000000000000
+      internalID: -8011281571651674273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_107
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 209
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d09df1700d52f1f0800000000000000
+      internalID: -1012644709711114028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_108
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 209
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277ceee5ee91011d0800000000000000
+      internalID: -3382174808569624718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_109
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 185
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b67952993c46d60800000000000000
+      internalID: 7882640310333303557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_110
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 189
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769b9a2d55d6e6cc0800000000000000
+      internalID: -3715912427160094361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_111
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 189
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6c93b6d13f29da0800000000000000
+      internalID: -5939417650869713223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_112
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 189
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264d6f6c32744f3e0800000000000000
+      internalID: -2020912113795017630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_113
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 173
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f9fc497b5ba0c00800000000000000
+      internalID: 867705678302519199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_114
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 110
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d926e6c62401d6f60800000000000000
+      internalID: 8029091588144521885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_115
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 160
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a4a3a95dd6a32a0800000000000000
+      internalID: -6756967526733034977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_116
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 161
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c9a66fbf7241f00800000000000000
+      internalID: 1086537373227588608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_117
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 161
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769cac38347db9df0800000000000000
+      internalID: -172307475749746329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_118
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 161
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f061f90f615a0fa0800000000000000
+      internalID: -5833760829955022604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_119
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 161
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74644da31c745a30800000000000000
+      internalID: 4203120776196678778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_120
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 161
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f74e7ce0fc95700800000000000000
+      internalID: 529682093582876516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_121
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 161
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548ae90e962e9a1e0800000000000000
+      internalID: -2185967199743727547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_122
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 161
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de51fb4b49827d390800000000000000
+      internalID: -7793716010988661267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_123
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 173
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ad7fa0ed59e37e0800000000000000
+      internalID: -1783823621492843925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_124
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 173
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fa63b10eaf05a00800000000000000
+      internalID: 743369778952318793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_125
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 173
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88127cb0a9fa28030800000000000000
+      internalID: 3495549336950350216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_126
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 160
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbf8100347800db0800000000000000
+      internalID: -4827710078706975818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_127
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 141
+        width: 39
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7cb0f7d1420b560800000000000000
+      internalID: 7327396302835926976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_128
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 141
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c782cdc52f3294620800000000000000
+      internalID: 2758775770588129404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_129
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 141
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bf7b2f3f3e70e50800000000000000
+      internalID: 6775634801290902415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_130
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 94
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60303da61cba5f20800000000000000
+      internalID: 3412246473267490923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_131
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 94
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c445ec82977d835a0800000000000000
+      internalID: -6541241543380020148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_132
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 94
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78bc5ca1bc4d02ad0800000000000000
+      internalID: -2728947405393900665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_133
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 94
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8bcddb28c6913a40800000000000000
+      internalID: 5346220019139070860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_134
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 93
+        width: 56
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb6bb580baae54e0800000000000000
+      internalID: -1990966310116561970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_135
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 93
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1a6a7215e3bf830800000000000000
+      internalID: 4105944003556844011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_136
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 94
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121db901eb26c51b0800000000000000
+      internalID: -5666545662676971231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_137
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 94
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78cc9f4d2e73b700800000000000000
+      internalID: 554925912171006076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_138
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 94
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c45bc5d571550200800000000000000
+      internalID: 145612129499305155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_139
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 95
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0110b13d3c3c7dd50800000000000000
+      internalID: 6762088611347890448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_140
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 94
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1804c1c7956380560800000000000000
+      internalID: 7280128555606622337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_141
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 95
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0f644772c4c39e0800000000000000
+      internalID: -1640352431931461459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_142
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 94
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59be866ccb2afbe10800000000000000
+      internalID: 2215668473355889557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_143
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea14747e961d87d50800000000000000
+      internalID: 6735363495514554798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_144
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 103
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390c8b83e4ae26f00800000000000000
+      internalID: 1108706079966544019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_145
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 60
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b07370c4d5415f0800000000000000
+      internalID: -786901453763048661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_146
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 60
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c1f7cff27845cc0800000000000000
+      internalID: -3723202351759156196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_147
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 60
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e4ff3e9a33e7d20800000000000000
+      internalID: 3278114383539949132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_148
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 60
+        width: 55
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e486444efbfe8c0800000000000000
+      internalID: -3967741759568982512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_149
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 60
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed51d653bbf1d180800000000000000
+      internalID: -9092209425010041376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_150
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 63
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9af28a447e211a0800000000000000
+      internalID: -6840150601956873779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_151
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 63
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7492d782ba30da0800000000000000
+      internalID: -5979747689830987798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_152
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 63
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb28ced7902003d0800000000000000
+      internalID: -3242555895056946249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_153
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 63
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cf3ab31475f1800800000000000000
+      internalID: 585282414266547276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_154
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 63
+        width: 52
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8723b75c03fbec3a0800000000000000
+      internalID: -6643162184132382088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_155
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 63
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371abbd45fbae45b0800000000000000
+      internalID: -5382175434601684621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_156
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 84
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080f2bab61c7f8f10800000000000000
+      internalID: 2274172773908803712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_157
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 84
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7494b0b839c8c10800000000000000
+      internalID: 2057181355200563141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_158
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 83
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634391eaad54eca90800000000000000
+      internalID: -7291813941140179914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_159
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 60
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e2da563bff38760800000000000000
+      internalID: 7459086553825750660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_160
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 66
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7486b157b93fd07e0800000000000000
+      internalID: -1797512827240748985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_161
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 66
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2d29419bce52aa0800000000000000
+      internalID: -6186278233465236751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_162
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 65
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b6f0daf9ae3e320800000000000000
+      internalID: 2586168582564965135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_163
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 35
+        width: 60
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a2bdff9bf0ffc60800000000000000
+      internalID: 7854013566693353989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_164
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 35
+        width: 49
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d91c7ea13f250b00800000000000000
+      internalID: 794092799728032208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_165
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 35
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c497181e9382ea0800000000000000
+      internalID: -5897400071339029502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_166
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 36
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6cbece2638bccb0800000000000000
+      internalID: -4842632513401928020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_167
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 36
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5835a32d2e5d794a0800000000000000
+      internalID: -6586560759839698043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_168
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 36
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054ae31686773f0b0800000000000000
+      internalID: -5696077813501746096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_169
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 36
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db4cd56fc1bf91f0800000000000000
+      internalID: -1035913884946641960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_170
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 36
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ccc690bc4fdeec0800000000000000
+      internalID: -3535900979542307823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_171
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 36
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb37b004701bfba80800000000000000
+      internalID: -8448839731226381380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_172
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 36
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e668e61297c38420800000000000000
+      internalID: 2631166037577983716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_173
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 48
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1daf2a7ea51360d60800000000000000
+      internalID: 7856020866497444561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_174
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 48
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afcba594523b665f0800000000000000
+      internalID: -763726114066875142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_175
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 48
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af42eceb1ecbd5750800000000000000
+      internalID: 6295395531888665850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_176
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 48
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93d08edb53585660800000000000000
+      internalID: 7374736043859301276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_177
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 48
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e362ab9cd2aa09ff0800000000000000
+      internalID: -31338083756923330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_178
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 35
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7bb2570fbfac510800000000000000
+      internalID: 1570344430268561328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_179
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 16
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd70080da863c9140800000000000000
+      internalID: 4727713678663616475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_180
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 16
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92efdb71d155a3a90800000000000000
+      internalID: -7333455459778691543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_181
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 16
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4dc6447fbe274870800000000000000
+      internalID: 8666947407722237261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBulletExplosion_182
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 16
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0ef783b64e5f9c0800000000000000
+      internalID: -3893955153631387451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MonsterBulletExplosion_0: 450014405137454355
+      MonsterBulletExplosion_1: 8074881037358176003
+      MonsterBulletExplosion_10: -8123242946906765016
+      MonsterBulletExplosion_100: 2653128807127458086
+      MonsterBulletExplosion_101: -3581338965717869361
+      MonsterBulletExplosion_102: -8335039905748693069
+      MonsterBulletExplosion_103: 2724528373164743419
+      MonsterBulletExplosion_104: -6451589537738584246
+      MonsterBulletExplosion_105: 3453661235588702019
+      MonsterBulletExplosion_106: -8011281571651674273
+      MonsterBulletExplosion_107: -1012644709711114028
+      MonsterBulletExplosion_108: -3382174808569624718
+      MonsterBulletExplosion_109: 7882640310333303557
+      MonsterBulletExplosion_11: -812445344385770831
+      MonsterBulletExplosion_110: -3715912427160094361
+      MonsterBulletExplosion_111: -5939417650869713223
+      MonsterBulletExplosion_112: -2020912113795017630
+      MonsterBulletExplosion_113: 867705678302519199
+      MonsterBulletExplosion_114: 8029091588144521885
+      MonsterBulletExplosion_115: -6756967526733034977
+      MonsterBulletExplosion_116: 1086537373227588608
+      MonsterBulletExplosion_117: -172307475749746329
+      MonsterBulletExplosion_118: -5833760829955022604
+      MonsterBulletExplosion_119: 4203120776196678778
+      MonsterBulletExplosion_12: -6481249410363518748
+      MonsterBulletExplosion_120: 529682093582876516
+      MonsterBulletExplosion_121: -2185967199743727547
+      MonsterBulletExplosion_122: -7793716010988661267
+      MonsterBulletExplosion_123: -1783823621492843925
+      MonsterBulletExplosion_124: 743369778952318793
+      MonsterBulletExplosion_125: 3495549336950350216
+      MonsterBulletExplosion_126: -4827710078706975818
+      MonsterBulletExplosion_127: 7327396302835926976
+      MonsterBulletExplosion_128: 2758775770588129404
+      MonsterBulletExplosion_129: 6775634801290902415
+      MonsterBulletExplosion_13: 5270308506340882064
+      MonsterBulletExplosion_130: 3412246473267490923
+      MonsterBulletExplosion_131: -6541241543380020148
+      MonsterBulletExplosion_132: -2728947405393900665
+      MonsterBulletExplosion_133: 5346220019139070860
+      MonsterBulletExplosion_134: -1990966310116561970
+      MonsterBulletExplosion_135: 4105944003556844011
+      MonsterBulletExplosion_136: -5666545662676971231
+      MonsterBulletExplosion_137: 554925912171006076
+      MonsterBulletExplosion_138: 145612129499305155
+      MonsterBulletExplosion_139: 6762088611347890448
+      MonsterBulletExplosion_14: -1469384977300994945
+      MonsterBulletExplosion_140: 7280128555606622337
+      MonsterBulletExplosion_141: -1640352431931461459
+      MonsterBulletExplosion_142: 2215668473355889557
+      MonsterBulletExplosion_143: 6735363495514554798
+      MonsterBulletExplosion_144: 1108706079966544019
+      MonsterBulletExplosion_145: -786901453763048661
+      MonsterBulletExplosion_146: -3723202351759156196
+      MonsterBulletExplosion_147: 3278114383539949132
+      MonsterBulletExplosion_148: -3967741759568982512
+      MonsterBulletExplosion_149: -9092209425010041376
+      MonsterBulletExplosion_15: -7439121665231608621
+      MonsterBulletExplosion_150: -6840150601956873779
+      MonsterBulletExplosion_151: -5979747689830987798
+      MonsterBulletExplosion_152: -3242555895056946249
+      MonsterBulletExplosion_153: 585282414266547276
+      MonsterBulletExplosion_154: -6643162184132382088
+      MonsterBulletExplosion_155: -5382175434601684621
+      MonsterBulletExplosion_156: 2274172773908803712
+      MonsterBulletExplosion_157: 2057181355200563141
+      MonsterBulletExplosion_158: -7291813941140179914
+      MonsterBulletExplosion_159: 7459086553825750660
+      MonsterBulletExplosion_16: 9085374052927988348
+      MonsterBulletExplosion_160: -1797512827240748985
+      MonsterBulletExplosion_161: -6186278233465236751
+      MonsterBulletExplosion_162: 2586168582564965135
+      MonsterBulletExplosion_163: 7854013566693353989
+      MonsterBulletExplosion_164: 794092799728032208
+      MonsterBulletExplosion_165: -5897400071339029502
+      MonsterBulletExplosion_166: -4842632513401928020
+      MonsterBulletExplosion_167: -6586560759839698043
+      MonsterBulletExplosion_168: -5696077813501746096
+      MonsterBulletExplosion_169: -1035913884946641960
+      MonsterBulletExplosion_17: 5267037666992701142
+      MonsterBulletExplosion_170: -3535900979542307823
+      MonsterBulletExplosion_171: -8448839731226381380
+      MonsterBulletExplosion_172: 2631166037577983716
+      MonsterBulletExplosion_173: 7856020866497444561
+      MonsterBulletExplosion_174: -763726114066875142
+      MonsterBulletExplosion_175: 6295395531888665850
+      MonsterBulletExplosion_176: 7374736043859301276
+      MonsterBulletExplosion_177: -31338083756923330
+      MonsterBulletExplosion_178: 1570344430268561328
+      MonsterBulletExplosion_179: 4727713678663616475
+      MonsterBulletExplosion_18: 8049626547136058047
+      MonsterBulletExplosion_180: -7333455459778691543
+      MonsterBulletExplosion_181: 8666947407722237261
+      MonsterBulletExplosion_182: -3893955153631387451
+      MonsterBulletExplosion_19: -6264678580665595413
+      MonsterBulletExplosion_2: 6291656337078864789
+      MonsterBulletExplosion_20: 8436163650749345657
+      MonsterBulletExplosion_21: 3317494028296359950
+      MonsterBulletExplosion_22: 6434931494618812802
+      MonsterBulletExplosion_23: 1319808668661573760
+      MonsterBulletExplosion_24: -8417749183093603110
+      MonsterBulletExplosion_25: -9187104131404936741
+      MonsterBulletExplosion_26: 7674098158642522569
+      MonsterBulletExplosion_27: 5277775607167453301
+      MonsterBulletExplosion_28: -9080860371000604507
+      MonsterBulletExplosion_29: -1293735858099422893
+      MonsterBulletExplosion_3: 7695973080134660799
+      MonsterBulletExplosion_30: 3139949506485431625
+      MonsterBulletExplosion_31: 2560814461198452089
+      MonsterBulletExplosion_32: 9020379329867006893
+      MonsterBulletExplosion_33: -1128737133056576666
+      MonsterBulletExplosion_34: 1852990248010335094
+      MonsterBulletExplosion_35: -3747842046288847116
+      MonsterBulletExplosion_36: -7504986915844872530
+      MonsterBulletExplosion_37: 6228726227746725009
+      MonsterBulletExplosion_38: 2641159586850850458
+      MonsterBulletExplosion_39: -8241716220681213750
+      MonsterBulletExplosion_4: 3511221257530148472
+      MonsterBulletExplosion_40: 7780525657832077503
+      MonsterBulletExplosion_41: -2938674160651332620
+      MonsterBulletExplosion_42: 8653860281495017517
+      MonsterBulletExplosion_43: 5104966883445596485
+      MonsterBulletExplosion_44: 7403539165409709653
+      MonsterBulletExplosion_45: 3115247570411171981
+      MonsterBulletExplosion_46: -5594236820948380285
+      MonsterBulletExplosion_47: -4245272208226104602
+      MonsterBulletExplosion_48: 7789327662701103371
+      MonsterBulletExplosion_49: 2862634501348645246
+      MonsterBulletExplosion_5: 3920979445146877667
+      MonsterBulletExplosion_50: 3662519602290310620
+      MonsterBulletExplosion_51: -8144537985305990889
+      MonsterBulletExplosion_52: 5168731033908980941
+      MonsterBulletExplosion_53: -2598216882848585955
+      MonsterBulletExplosion_54: 3172062884549472148
+      MonsterBulletExplosion_55: -7324707547507678073
+      MonsterBulletExplosion_56: -5314319685704375720
+      MonsterBulletExplosion_57: -7389756770060589749
+      MonsterBulletExplosion_58: 2976663168713486201
+      MonsterBulletExplosion_59: 2430425239018019398
+      MonsterBulletExplosion_6: 8637786591180854284
+      MonsterBulletExplosion_60: -7797116928232908278
+      MonsterBulletExplosion_61: -6616821314575580594
+      MonsterBulletExplosion_62: 6355009996189862024
+      MonsterBulletExplosion_63: 6343861588639406025
+      MonsterBulletExplosion_64: 6832016738239573779
+      MonsterBulletExplosion_65: -1364729503801478424
+      MonsterBulletExplosion_66: -950956427156513534
+      MonsterBulletExplosion_67: 3592375143480226784
+      MonsterBulletExplosion_68: -4037076008089776792
+      MonsterBulletExplosion_69: -5825845201719739455
+      MonsterBulletExplosion_7: 8936279201778640245
+      MonsterBulletExplosion_70: 6156042591409870001
+      MonsterBulletExplosion_71: -4923665007657588668
+      MonsterBulletExplosion_72: -5966949944779803630
+      MonsterBulletExplosion_73: 6626046620651996044
+      MonsterBulletExplosion_74: -3821320340350872638
+      MonsterBulletExplosion_75: -5540682181912008035
+      MonsterBulletExplosion_76: 4375989658001244534
+      MonsterBulletExplosion_77: 8070581362872153909
+      MonsterBulletExplosion_78: 123396368324441712
+      MonsterBulletExplosion_79: 4403241647466383123
+      MonsterBulletExplosion_8: 57203337253105458
+      MonsterBulletExplosion_80: 6684666898209977586
+      MonsterBulletExplosion_81: 6956538104361087122
+      MonsterBulletExplosion_82: -7442304588790754
+      MonsterBulletExplosion_83: -5545647803641217378
+      MonsterBulletExplosion_84: -7720866803512842602
+      MonsterBulletExplosion_85: 8796244290181659515
+      MonsterBulletExplosion_86: -7496010538433224637
+      MonsterBulletExplosion_87: 241532531987285764
+      MonsterBulletExplosion_88: 7461946042698828565
+      MonsterBulletExplosion_89: 4533441366489006795
+      MonsterBulletExplosion_9: -3319667294704209663
+      MonsterBulletExplosion_90: -8673415933285202631
+      MonsterBulletExplosion_91: -8055095627270930147
+      MonsterBulletExplosion_92: 4711529823126628142
+      MonsterBulletExplosion_93: -2334053955690485896
+      MonsterBulletExplosion_94: -8299846556789687988
+      MonsterBulletExplosion_95: -1404571290040107826
+      MonsterBulletExplosion_96: 7528361979955075010
+      MonsterBulletExplosion_97: -5319048758976814817
+      MonsterBulletExplosion_98: 3260107103842674117
+      MonsterBulletExplosion_99: 5936777948255195794
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
